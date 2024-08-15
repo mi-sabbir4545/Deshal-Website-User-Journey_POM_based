@@ -1,9 +1,5 @@
 # Deshal-Website-User-Journey_POM_based
 
-npm install --save-dev cypress
-
-Open Cypress:
-npx cypress open
 
 Run Tests from the Command Line:
 npx cypress run --spec "cypress/e2e/deshal_user_journey.spec.js"
