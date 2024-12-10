@@ -2,7 +2,7 @@
 
 
 Run Tests from the Command Line:
-npx cypress run --spec "cypress/e2e/deshal_user_journey.spec.js"
+npx cypress run --spec
 
 
 1. Set Up Your Cypress Project
